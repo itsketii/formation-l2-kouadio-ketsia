@@ -1,4 +1,4 @@
-# FORMATION L2  - JOUR 1 : L'ENVIRONNEMENT PROFESSIONNEL
+# FORMATION L2  - JOUR 1 : L'ENVIRONNEMENT PROFESSIONNEL - Branche main
 
 ### Description
 
@@ -21,8 +21,13 @@ Dans le cadre de la formation IIT Learn 25-26, ce dépot contient les travaux pr
 * [X] Cloner le dépot
 * [X] Creer un environnement virtuel Python
 * [X] Créer un fichier README.md
+<<<<<<< HEAD
 * [ ] Faire au moins 5 commits distincts
 * [X] Créer une branhe
+=======
+* [X] Faire au moins 5 commits distincts (Fait sur la branche conflit)
+* [ ] Créer une branhe
+>>>>>>> main
 
 ---
 
