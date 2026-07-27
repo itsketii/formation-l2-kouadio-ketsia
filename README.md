@@ -21,13 +21,9 @@ Dans le cadre de la formation IIT Learn 25-26, ce dépot contient les travaux pr
 * [X] Cloner le dépot
 * [X] Creer un environnement virtuel Python
 * [X] Créer un fichier README.md
-<<<<<<< HEAD
-* [ ] Faire au moins 5 commits distincts
-* [X] Créer une branhe
-=======
-* [X] Faire au moins 5 commits distincts (Fait sur la branche conflit)
-* [ ] Créer une branhe
->>>>>>> main
+* [X] Faire au moins 5 commits distincts
+* [X] Provoquer et résoudre un conflit de fusion localement
+* [ ] Configurer un fichier .gitignore complet
 
 ---
 
@@ -65,6 +61,7 @@ Cinq paquets Python ont été installés dans cet environnement comme demandé p
 - **Colaborateurs invités** : @sedrickgael & @junmodeste
 - **Historique** : Plus de 5 commits distincts ont été réalisés pour suivre l'évolution du travail.
 - **Branche & Pull Request** : Une branche secondaire a été créée pour ajouter des modifications, débouchant sur l'ouverture d'une Pull Request vers la branche principale (`main`).
+
 ---
 
 ### Notes de fin
