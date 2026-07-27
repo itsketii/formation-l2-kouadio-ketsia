@@ -60,7 +60,8 @@ Cinq paquets Python ont été installés dans cet environnement comme demandé p
 
 - **Colaborateurs invités** : @sedrickgael & @junmodeste
 - **Historique** : Plus de 5 commits distincts ont été réalisés pour suivre l'évolution du travail.
-- **Branche & Pull Request** : Une branche secondaire a été créée pour ajouter des modifications, débouchant sur l'ouverture d'une Pull Request vers la branche principale (`main`).
+- **Branche & Pull Request** : Une première branche secondaire (`update-readme-content`) a été créée pour les ajouts initiaux, débouchant sur l'ouverture d'une Pull Request vers `main`. Une seconde branche (`test-conflit`) a été générée afin de provoquer, résoudre et fusionner un conflit de fusion localement avec succès.
+
 
 ---
 
