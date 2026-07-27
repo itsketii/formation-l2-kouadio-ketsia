@@ -21,8 +21,9 @@ Dans le cadre de la formation IIT Learn 25-26, ce dépot contient les travaux pr
 * [X] Cloner le dépot
 * [X] Creer un environnement virtuel Python
 * [X] Créer un fichier README.md
-* [X] Faire au moins 5 commits distincts (Fait sur la branche conflit)
-* [ ] Créer une branhe
+* [X] Faire au moins 5 commits distincts
+* [X] Provoquer et résoudre un conflit de fusion localement
+* [X] Configurer un fichier .gitignore complet
 
 ---
 
@@ -43,7 +44,7 @@ L'environnement virtuel a été configuré et activé avec les commandes suivant
 python -m venv venv
 ```
 
-#### 3. Dépendance instalées
+#### 3. Dépendances installées
 
 Cinq paquets Python ont été installés dans cet environnement comme demandé pour l'exercice. Voici la liste ci-dessous :
 
@@ -58,3 +59,11 @@ Cinq paquets Python ont été installés dans cet environnement comme demandé p
 ### Collaboration & Workflom Git
 
 - **Colaborateurs invités** : @sedrickgael & @junmodeste
+- **Historique** : Plus de 5 commits distincts ont été réalisés pour suivre l'évolution du travail.
+- **Branche & Pull Request** : Une première branche secondaire (`update-readme-content`) a été créée pour les ajouts initiaux, débouchant sur l'ouverture d'une Pull Request vers `main`. Une seconde branche (`test-conflit`) a été générée afin de provoquer, résoudre et fusionner un conflit de fusion localement avec succès.
+
+---
+
+### Notes de fin
+
+Ce projet a été réalisé avec succès dans le cadre des travaux pratique du **Jour 1 de la formation L2**.
