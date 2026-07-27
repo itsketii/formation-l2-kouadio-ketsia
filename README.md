@@ -43,7 +43,7 @@ L'environnement virtuel a été configuré et activé avec les commandes suivant
 python -m venv venv
 ```
 
-#### 3. Dépendance instalées
+#### 3. Dépendances installées
 
 Cinq paquets Python ont été installés dans cet environnement comme demandé pour l'exercice. Voici la liste ci-dessous :
 
