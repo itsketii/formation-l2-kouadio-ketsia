@@ -47,11 +47,11 @@ python -m venv venv
 
 Cinq paquets Python ont été installés dans cet environnement comme demandé pour l'exercice. Voici la liste ci-dessous :
 
-* ``
-* ``
-* ``
-* ``
-* ``
+* `numpy`
+* `rich`
+* `flake8`
+* `icecream`
+* `watchdog`
 
 ---
 
