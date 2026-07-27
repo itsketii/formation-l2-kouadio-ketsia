@@ -21,7 +21,7 @@ Dans le cadre de la formation IIT Learn 25-26, ce dépot contient les travaux pr
 * [X] Cloner le dépot
 * [X] Creer un environnement virtuel Python
 * [X] Créer un fichier README.md
-* [X] Faire au moins 5 commits distincts
+* [X] Faire au moins 5 commits distincts (Fait sur la branche conflit)
 * [ ] Créer une branhe
 
 ---
