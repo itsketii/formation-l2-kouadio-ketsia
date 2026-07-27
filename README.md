@@ -22,7 +22,7 @@ Dans le cadre de la formation IIT Learn 25-26, ce dépot contient les travaux pr
 * [X] Creer un environnement virtuel Python
 * [X] Créer un fichier README.md
 * [ ] Faire au moins 5 commits distincts
-* [ ] Créer une branhe
+* [X] Créer une branhe
 
 ---
 
@@ -58,3 +58,10 @@ Cinq paquets Python ont été installés dans cet environnement comme demandé p
 ### Collaboration & Workflom Git
 
 - **Colaborateurs invités** : @sedrickgael & @junmodeste
+- **Historique** : Plus de 5 commits distincts ont été réalisés pour suivre l'évolution du travail.
+- **Branche & Pull Request** : Une branche secondaire a été créée pour ajouter des modifications, débouchant sur l'ouverture d'une Pull Request vers la branche principale (`main`).
+---
+
+### Notes de fin
+
+Ce projet a été réalisé avec succès dans le cadre des travaux pratique du **Jour 1 de la formation L2**.
